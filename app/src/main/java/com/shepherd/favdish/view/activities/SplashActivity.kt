@@ -1,4 +1,4 @@
-package com.shepherd.favdish
+package com.shepherd.favdish.view.activities
 
 import android.content.Intent
 import android.os.Build
@@ -10,6 +10,7 @@ import android.view.WindowManager
 import android.view.animation.Animation
 import android.view.animation.AnimationUtils
 import androidx.appcompat.app.AppCompatActivity
+import com.shepherd.favdish.R
 import com.shepherd.favdish.databinding.ActivitySplashBinding
 
 class SplashActivity : AppCompatActivity() {
