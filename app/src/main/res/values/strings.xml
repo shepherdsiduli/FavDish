@@ -14,6 +14,10 @@
     <string name="lbl_direction_to_cook">Direction To Cook</string>
     <string name="lbl_add_dish">ADD DISH</string>
 
+    <string name="title_select_image_action">Select Image Action</string>
+    <string name="lbl_camera">Camera</string>
+    <string name="lbl_gallery">Gallery</string>
+
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
     <string name="title_activity_splash">SplashActivity</string>
